@@ -35,3 +35,6 @@ the attempt from 2017 to see how to put it back into Verilog, but use the parame
 probably figure out a better way to do this.
 * The final demonstration isn't very interactive. Try putting physical dials or sliders on the table to control things (eg. motor speed,
 playing style). These might win you a prize at SparkNight.
+
+# Finally
+Good luck guys, read as much as you can about the setup and give it a crack.
